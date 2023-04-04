@@ -1,4 +1,4 @@
-print('Dr. Kurt Diesch');
+print('Hello Dr. Kurt Diesch');
 
 name = input('What is your pet’s name?');
 activity =input('What is his/her favorite activity?');
