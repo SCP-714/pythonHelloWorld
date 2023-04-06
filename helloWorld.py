@@ -1,3 +1,4 @@
+print('Hello World');
 print('Hello Dr. Kurt Diesch');
 
 name = input('What is your pet’s name?');
